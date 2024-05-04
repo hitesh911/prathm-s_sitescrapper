@@ -5,7 +5,7 @@ Welcome to the README for the Web Scraper CLI Application! This CLI tool is desi
 ## Features
 
 - **Interactive Command Line Interface**: The application provides an interactive command line interface with arrow key navigation for easy menu interaction.
-- **Beautiful UI Design**: Despite being a CLI application, this tool offers a beautiful and intuitive user interface.
+- **Beautiful UI Design**: Despite being a CLI application, this tool offers a beautiful and intuitive user interface (Rich lib used to build interface).
 - **Recent Links Management**: Users can view and select from a list of recent links they've scraped, making it easy to revisit previous scrapes.
 - **Scrape New Links**: Users can enter a new link to scrape articles from and view author details.
 - **Progress Indicator**: The application displays a progress indicator while scraping articles, keeping users informed about the scraping progress.
