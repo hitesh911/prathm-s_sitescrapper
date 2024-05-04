@@ -15,11 +15,12 @@ Welcome to the README for the Web Scraper CLI Application! This CLI tool is desi
 
 Here are some screenshots showcasing the UI of the application:
 
-1. ![Screenshot 1](first.png)
-2. ![Screenshot 2](second.png)
-3. ![Screenshot 3](third.png)
-4. ![Screenshot 4](fourth.png)
-5. ![Screenshot 5](fifth.png)
+1.
+2.  ![Screenshot 1](first.png)
+3. ![Screenshot 2](second.png)
+4. ![Screenshot 3](third.png)
+5. ![Screenshot 4](fourth.png)
+ ![Screenshot 5](fifth.png)
 
 ## Setup Instructions
 
