@@ -38,7 +38,7 @@ meta_instructions.append("\U0001F44D Press SpaceBar to select\n",style="green")
 meta_instructions.append("\U0001F3F9 Press Up & Down keys to nagivate\n",style="cyan")
 meta_instructions.append("\U0001F645 Press Q to go back\n",style="red")
 meta_instructions.append("\U0001F645 Press CTRL+C to exit\n",style=text_style.info_style)
-base_domain = "http://onlinelibrary.wiley.com"
+base_domain = "http://can't be exposed sorry.com"
 target_url = f"{base_domain}/toc/10991476/2024/47/6"
 
 # Set headers to mimic a browser request
